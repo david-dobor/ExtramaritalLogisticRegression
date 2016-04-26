@@ -1,0 +1,3 @@
+An example of logistic regression using `scikit-learn`.
+
+The dataset is [affairs dataset](http://statsmodels.sourceforge.net/stable/datasets/generated/fair.html "Affairs data") and comes with [Statsmodels](http://statsmodels.sourceforge.net/ "Statsmodels"). It was derived from a survey of women in 1974 by Redbook magazine, in which married women were asked about their participation in extramarital affairs. More information about the study is available in a [1978 paper](https://fairmodel.econ.yale.edu/rayfair/pdf/1978a200.pdf "Affairs paper") from the Journal of Political Economy.
